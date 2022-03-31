@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://idavoong.github.io/csb-rqhcqy/static/css/main.94bc4993.chunk.css",
+    "main.js": "https://idavoong.github.io/csb-rqhcqy/static/js/main.11230a28.chunk.js",
+    "main.js.map": "https://idavoong.github.io/csb-rqhcqy/static/js/main.11230a28.chunk.js.map",
+    "runtime-main.js": "https://idavoong.github.io/csb-rqhcqy/static/js/runtime-main.e2f9ad91.js",
+    "runtime-main.js.map": "https://idavoong.github.io/csb-rqhcqy/static/js/runtime-main.e2f9ad91.js.map",
+    "static/js/2.f38c83e6.chunk.js": "https://idavoong.github.io/csb-rqhcqy/static/js/2.f38c83e6.chunk.js",
+    "static/js/2.f38c83e6.chunk.js.map": "https://idavoong.github.io/csb-rqhcqy/static/js/2.f38c83e6.chunk.js.map",
+    "index.html": "https://idavoong.github.io/csb-rqhcqy/index.html",
+    "static/css/main.94bc4993.chunk.css.map": "https://idavoong.github.io/csb-rqhcqy/static/css/main.94bc4993.chunk.css.map",
+    "static/js/2.f38c83e6.chunk.js.LICENSE.txt": "https://idavoong.github.io/csb-rqhcqy/static/js/2.f38c83e6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e2f9ad91.js",
+    "static/js/2.f38c83e6.chunk.js",
+    "static/css/main.94bc4993.chunk.css",
+    "static/js/main.11230a28.chunk.js"
+  ]
+}
